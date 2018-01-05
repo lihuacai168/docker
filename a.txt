@@ -1,3 +1,7 @@
 add the first line in a.txt
 this is the second line
-change a.txt
+change a.txt!+1
+this is fourth line
+this is fifth line
+6
+7
