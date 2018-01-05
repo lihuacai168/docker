@@ -1,0 +1,8 @@
+add a line to file
+add another line
+/n add change line
+\n add change line
+n  add change line
+
+ hr hh
+hv ie
